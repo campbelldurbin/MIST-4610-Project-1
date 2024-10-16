@@ -13,6 +13,8 @@
 ![Revised Data Model Project 1](https://github.com/user-attachments/assets/e56c488c-3bcb-4cf8-bb9e-2432e46e1cce)
 
 ## Data Dictionary
+![image](https://github.com/user-attachments/assets/65940e5f-9fa2-41b4-a041-f5a06d8d3493)
+
 
 ## Ten Queries
 
