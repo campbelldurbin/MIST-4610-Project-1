@@ -8,7 +8,7 @@
 - Maddie Sells (insert @ to repo)
 
 ## Scenario Description
-Our data model and database were created to represent and track the operations of a small, general care clinic with board-certified nurses and doctors who diagnose and treats minor illnesses affordable healthcare in convenient retail locations like Kroger or Publix. The clinic diagnoses and treats minor illnesses with care provided by board-certified nurses and physicians.
+Our data model and database were created to represent and track the operations of a small, affordable, general care clinic with board-certified nurses and doctors who diagnose and treat minor illnesses in convenient retail locations, such as Kroger or Publix. 
 
 ## Data Model
 ![Revised Data Model Project 1](https://github.com/user-attachments/assets/e56c488c-3bcb-4cf8-bb9e-2432e46e1cce)
