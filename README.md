@@ -30,7 +30,7 @@ There are also one-to-many non-identifying relationships between Patient and Eme
 
 Again, the primary key of the entity representing the 'one' side in the one-to-many relationship appears as a foreign key in the entity representing the 'many' side and these relationships are designated as non-identifying because each of the entities can exist independently of one another. 
 
-The final relationship within the data model is a one-to-one identifying relationship between Patient and Medical Record. The logic supporting this relationship is as follows: a medical record only exists if there is a patient, and a patient only has one medical record. With that said, Patient’s primary key appears as a foreign key in the MedicalRecord entity.  
+The final relationship within the data model is a one-to-one identifying relationship between Patient and MedicalRecord. The logic supporting this relationship is as follows: a medical record only exists if there is a patient, and a patient only has one medical record. With that said, Patient’s primary key appears as a foreign key in the MedicalRecord entity.  
 
 
 ## Data Dictionary
