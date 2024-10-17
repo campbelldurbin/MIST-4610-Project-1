@@ -13,13 +13,12 @@ Our data model and database were created to represent and manage the operations 
 ## Data Model
 ![Revised Data Model Project 1](https://github.com/user-attachments/assets/e56c488c-3bcb-4cf8-bb9e-2432e46e1cce)
 
-Our model features 11 entities: Appointment, Bill, Doctor, EmergencyContact, Insurance, MedicalRecord, Nurse, Patient, Prescription, Room, and TestResult. As mentioned, the Appointment entity serves as the backbone of our model. The Insurance, Doctor, Patient, Nurse, and Room entities each have a one-to-many non-identifying relationship with the Appointment entity. Thus, each of their primary keys appears as a foreign key within the Appointment entity. These are classified as one-to-many relationships because each instance of the Appointment entity is associated with a single instance of each supporting entity, while each supporting entity can be linked to multiple appointments. The specific logic supporting these relationships is as follows:
+Our model features 11 entities: Appointment, Bill, Doctor, EmergencyContact, Insurance, MedicalRecord, Nurse, Patient, Prescription, Room, and TestResult. As mentioned, the Appointment entity serves as the backbone of our model. The Insurance, Doctor, Patient, Nurse, and Room entities each have a one-to-many non-identifying relationship with the Appointment entity. Thus, each of their primary keys appears as a foreign key within the Appointment entity. These are classified as one-to-many relationships because each instance of the Appointment entity is associated with a single instance of each supporting entity, while each supporting entity can be linked to multiple appointments. These are non-identifying relationships because each supporting entity can exist independently of the Appointment entity. The specific logic supporting these relationships is as follows:
 - Each appointment is associated with only one patient, but a patient can have many appointments.
 - Each appointment is assigned to only one doctor, but a doctor can be assigned to many appointments.
 - Each appointment is assigned to only one nurse, but a nurse can be assigned to many appointments.
 - Each appointment is assigned to only one room, but a room can be assigned to many appointments.
 - Each appointment is associated with only one insurance policy, but an insurance policy can be associated with many appointments. 
-Further, these are non-identifying relationships because each supporting entity can exist independently of the Appointment entity. 
 
 On the other hand, there is a one-to-one identifying relationship between Appointment and Bill as a bill only exists if there is an appointment, and an appointment generates only one bill. Appointment’s primary key thus appears as a foreign key in Bill.
 
