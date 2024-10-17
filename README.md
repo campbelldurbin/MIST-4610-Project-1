@@ -58,8 +58,9 @@ The final relationship within the data model is a one-to-one identifying relatio
 
 ## Ten Queries
 1. Write a query to list the total amount owed by insurance companies representing patients who selected insurance as their payment method. Order the results from highest to lowest total amount due and include the count of patients associated with each total.
+   
 ![Screenshot (289)](https://github.com/user-attachments/assets/48224c1b-81f2-4961-9390-d15dfd96ab81)
-
+Justification...
 
 ## Database Information
 Database Name: ns_4610Fa24Group2
