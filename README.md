@@ -28,7 +28,7 @@ There are also one-to-many non-identifying relationships between Patient and Eme
 - Each prescription is found in only one medical record, but a medical record can contain many prescriptions. 
 - Each test result is found on only one medical record, but a medical record can contain many test results.
 
-Again, the primary key of the entity representing the 'one' side in the one-to-many relationship appears as a foreign key in the entity representing the 'many' side and these relationships are designated as non-identifying because each of the entities can exist independently. 
+Again, the primary key of the entity representing the 'one' side in the one-to-many relationship appears as a foreign key in the entity representing the 'many' side and these relationships are designated as non-identifying because each of the entities can exist independently of one another. 
 
 The final relationship within the data model is a one-to-one identifying relationship between Patient and Medical Record. The logic supporting this relationship is as follows: a medical record only exists if there is a patient, and a patient only has one medical record. With that said, Patient’s primary key appears as a foreign key in the MedicalRecord entity.  
 
