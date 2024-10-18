@@ -48,12 +48,13 @@ The final relationship within the data model is a one-to-one identifying relatio
 
 ![image](https://github.com/user-attachments/assets/821928b1-0350-480a-a6c7-2be2257ac0fa)
 
+![image](https://github.com/user-attachments/assets/c325cd5e-a789-4592-8382-22d8d426ae02)
 
-![image](https://github.com/user-attachments/assets/5ca778fd-579c-4d69-9ef5-bf8a54b8c116)
+![image](https://github.com/user-attachments/assets/1293c819-4fa3-4489-8cf1-69dd06825cbf)
 
-![image](https://github.com/user-attachments/assets/8aeb8351-622a-42c5-8f9e-b048b43a8f53)
+![image](https://github.com/user-attachments/assets/6da5c077-563e-4c3e-8334-c6eaedecddc2)
 
-![image](https://github.com/user-attachments/assets/0e52eba9-b431-495d-a903-4250c7d1fc69)
+![image](https://github.com/user-attachments/assets/06ad957d-728c-4047-98b3-7c5a70876c30)
 
 ## Ten Queries
 1. Write a query to list the total amount owed by insurance companies representing patients who selected insurance as their payment method. Order the results from highest to lowest total amount due and include the count of patients associated with each total.
