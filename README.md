@@ -34,7 +34,7 @@ The final relationship within the data model is a one-to-one identifying relatio
 
 
 ## Data Dictionary
-![image](https://github.com/user-attachments/assets/22c46b81-886d-4094-bd75-c20e81a664d0)
+![image](https://github.com/user-attachments/assets/87f6caf4-4350-415b-9a3c-e03101035dda)
 
 ![image](https://github.com/user-attachments/assets/d935963b-f9b0-437a-9e44-9c7729cff202)
 
