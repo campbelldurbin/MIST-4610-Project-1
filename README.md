@@ -104,7 +104,7 @@ Justification: Query 9 is important from a managerial perspective primarily beca
 
 10. Write a query to list the patient’s first name, last name, and total number of appointments for those patient's who tested positive for any illness.
     
-![image](https://github.com/user-attachments/assets/8b5d3baa-4f3a-4abc-85f4-019888f101da)
+![Screenshot (302)](https://github.com/user-attachments/assets/b18bd268-4910-45b7-90e3-bebae68b6c33)
 Justification: Query 10 offers managerial significance because it reveals those patient's who have tested positive for an illness and provides insight into actions the patient may or may not have taken after the test. The count of the patient's total number of appointments in this context reveals to the clinic if a patient may have needed a follow up appointment to receive greater care after their diagnosis. 
 
 ![Screenshot (301)](https://github.com/user-attachments/assets/6241c5d7-2f11-4186-be14-a2080a4bb6c8)
