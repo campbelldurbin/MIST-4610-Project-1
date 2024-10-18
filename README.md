@@ -75,22 +75,22 @@ Justification: By identifying which nurses are paid more than the lowest paid do
 4. Write a query to list the names of doctors who have more years of experience than their supervisor. Also list the supervisor's name and the difference in their years of experience. 
 
 ![Screenshot (293)](https://github.com/user-attachments/assets/3859286d-4e3d-44cb-bd33-e95caa137e1b)
-Justification: Query 4 reveals those doctors who have more years of experience than their supervisor as well as their difference in years of experience, which provides managers with relevant insight into the clinic's hierarchical structure, possibly leading them to re-evaluate roles.
+Justification: Query 4 reveals those doctors who have more years of experience than their supervisor as well as their difference in years of experience, which provides managers with relevant insight into the clinic's hierarchical structure and could support in the decision to possibly re-evaluate roles.
 
 5. Write a query to list the patientId, firstName, lastName, status, and total amount due for those patients who owe more than $100 to the clinic. Order the results in descending order based on the total amount due.
 
 ![Screenshot (294)](https://github.com/user-attachments/assets/dd6ec149-2677-443e-8d5e-b822630702af)
 Justification: Query 5 allows managers to identify those patients who owe over $100 to the clinic. By identifying these patients, managers can begin to look further into the patient's relevant records, including their appointments, prescriptions, insurance, and test results, and can access their contact information to notify them of their outstanding dues. Further, sorting the amounts owed from highest to lowest and indicating if the patients have at least partially paid their bill(s) allows the manager to strategize and priortize efforts on those patients who owe the most money to the clinic.
 
-6. Write a query to show the average bill amount for each doctor's appointments in order from highest to lowest
+6. Write a query to list the names of the nurses who have appointments in the future, as well as the date and time of those appointments.
 
 ![Screenshot (295)](https://github.com/user-attachments/assets/f6f494d5-c959-41a5-8bb8-3f4de3eba94a)
-Justification: This would be useful for a clinic as it would help a manager see if a doctor is a specialist of some type as a specialist visit on average costs more than a general doctor visit may cost. It would also help the office manager adjust hourly rates charged if needed.
+Justification: Query 6 would be useful for the clinic manager when needing to assign nurses to new appoints as it allows the manager to see which nurses are unavailable and at what times, and at a higher level, which nurses have the fullest upcoming schedule. This query would also offer support in the clinic's general scheduling (doctors, testing, etc.).
 
-7. Write a query to list out the Id, first name, and last name of doctors in the medical clinic who have not wrote a prescription
+7. Write a query to calculate and list the average bill amount for each doctor's appointments in order from highest to lowest.
 
 ![Screenshot (296)](https://github.com/user-attachments/assets/b1d1a4c0-13d1-4c7f-9da0-20ec6c7a863f)
-Justification: This is important as it showcases doctors who have not issued prescriptions. This is important as it can provide valuable information in assessing the roles, responsibilities, contributions of each doctor. This can highlight any gaps in patient care to ensure that the clinic process is optimized and following proper procedures.
+Justification: By calculating the average bill amount by doctor, Query 7 allows managers to see which doctors drive the most "revenue" for the clinic. A higher average bill amount could also provide reason to explore a particular doctor's appointment and prescription history to ensure they are providing comprehensive care when diagnosing patients and prescribing particular medications. 
 
 8. Write a query that lists patient name, phone number, email address, and medical history for those who tested positive for a test and find those who have allergies to ensure you don’t prescribe any medications they may give them an allergic reaction
 
