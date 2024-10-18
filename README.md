@@ -5,7 +5,7 @@
 - Caleb Maine [@trynagetdone](https://github.com/trynagetdone)
 - Campbell Durbin [@campbelldurbin](https://github.com/campbelldurbin)
 - Chandler Boyd (insert @ to repo)
-- Maddie Sells (insert @ to repo)
+- Maddie Sells [@mrs34516](https://github.com/mrs34516)
 
 ## Scenario Description
 Our data model and database were created to represent and manage the operations of a small, affordable general care clinic staffed by board-certified nurses and doctors who diagnose and treat minor illnesses in convenient retail locations (e.g. Kroger). At the core of this model is the Appointment entity, which helps to ensure streamlined data management and operations as the key supporting entities – Nurse, Doctor, Patient, Room, Insurance, and Bill – are each related to the Appointment entity. In addition to serving patients through appointments, the clinic also fulfills prescriptions and stores medical records, test results, and emergency contacts.
