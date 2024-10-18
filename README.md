@@ -60,7 +60,7 @@ The final relationship within the data model is a one-to-one identifying relatio
 1. Write a query to list the total amount owed by insurance companies representing patients who selected insurance as their payment method. Order the results from highest to lowest total amount due and include the count of patients associated with each total.
    
 ![Screenshot (289)](https://github.com/user-attachments/assets/48224c1b-81f2-4961-9390-d15dfd96ab81)
-Justification: This query shows the outstanding amount due by each associated insurance company, and this is very useful to the office accountant or billing as it allows them to see what they are currently owed as well as the number of patients associated with the outstanding amount.
+Justification: Query 1 identifies which insurance companies owe the clinic money and provides the total amount owed by each. This is useful from a managerial perspective primarily because it allows the billing and related departments to accurately report financials, and by revealing the count of patients associated with the total amount due, managers are able to better understand the origins of the totals and can begin to take steps to collect what is owed to the clinic.
 
 2. Write a query to list the first and last name of each doctor who has written more than one prescription, along with the medication name and count of how many times each doctor has prescribed that medication.
 
