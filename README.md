@@ -111,3 +111,4 @@ Justification: Query 10 offers managerial significance because it reveals those 
 
 ## Database Information
 Database Name: ns_4610Fa24Group2
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
