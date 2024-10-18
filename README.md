@@ -1,7 +1,7 @@
 # MIST 4610 Fall 2024 Project 1
 
 ## Group 2 Team Members
-- Aryan Patel (insert @ to repo)
+- Aryan Patel @AryanUGA
 - Caleb Maine (insert @ to repo)
 - Campbell Durbin (insert @ to repo)
 - Chandler Boyd (insert @ to repo)
