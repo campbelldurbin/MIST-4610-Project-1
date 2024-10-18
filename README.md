@@ -72,15 +72,15 @@ Justification: Query 2 is useful from a managerial standpoint because it assists
 ![Screenshot (291)](https://github.com/user-attachments/assets/d125356a-a23f-4a2a-8da0-66adad6aa71c)
 Justification: By identifying which nurses are paid more than the lowest paid doctor, Query 3 allows managers to engage in salary benchmarking, which is useful for identifying salary discrepencies and trends. By better understanding this information, managers can work to ensure fair and equal pay across their staff and are better informed when making budgeting and promotion decisions.
 
-4. Write a query to find patients with unpaid bills with the total amount due greater than 100 and ordered from highest to lowest
+4. Write a query to list the names of doctors who have more years of experience than their supervisor. Also list the supervisor's name and the difference in their years of experience. 
 
 ![Screenshot (293)](https://github.com/user-attachments/assets/3859286d-4e3d-44cb-bd33-e95caa137e1b)
-Justification: Query 4 allows managers to identify those patients who owe over $100 to the clinic. By identifying these patients, managers can begin to look further into the patient's relevant records, including their appointments, prescriptions, insurance, and test results, and can access their contact information to notify them of their outstanding dues. Further, sorting the amounts owed from highest to lowest would allow the manager to strategize and priortize efforts on those patients who owe the most money to the clinic.
+Justification: Query 4 reveals those doctors who have more years of experience than their supervisor as well as their difference in years of experience, which provides managers with relevant insight into the clinic's hierarchical structure, possibly leading them to re-evaluate roles.
 
-5. Write a query to show the names of the nurses who have appointments in the future and the date and time of the appointments
+5. Write a query to list the patientId, firstName, lastName, status, and total amount due for those patients who owe more than $100 to the clinic. Order the results in descending order based on the total amount due.
 
 ![Screenshot (294)](https://github.com/user-attachments/assets/dd6ec149-2677-443e-8d5e-b822630702af)
-Justification: This query would be useful for the office manager to help with scheduling nurses and assigning them what appointments they work. It also could be used to change the date in the query as needed to continue building the office schedule.
+Justification: Query 5 allows managers to identify those patients who owe over $100 to the clinic. By identifying these patients, managers can begin to look further into the patient's relevant records, including their appointments, prescriptions, insurance, and test results, and can access their contact information to notify them of their outstanding dues. Further, sorting the amounts owed from highest to lowest and indicating if the patients have at least partially paid their bill(s) allows the manager to strategize and priortize efforts on those patients who owe the most money to the clinic.
 
 6. Write a query to show the average bill amount for each doctor's appointments in order from highest to lowest
 
