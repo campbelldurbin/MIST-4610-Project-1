@@ -38,7 +38,7 @@ The final relationship within the data model is a one-to-one identifying relatio
 
 ![image](https://github.com/user-attachments/assets/4db7f242-167d-4288-a1fe-b3885d1f879a)
 
-![image](https://github.com/user-attachments/assets/1a346d4d-6f12-4324-83d6-8986533ffa7b)
+![image](https://github.com/user-attachments/assets/642d30e9-5611-476d-b517-a6d4cf4d1f47)
 
 ![image](https://github.com/user-attachments/assets/127c54e2-ab80-4e61-85c7-55a7cc205ada)
 
