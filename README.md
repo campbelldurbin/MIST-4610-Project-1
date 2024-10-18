@@ -60,54 +60,54 @@ The final relationship within the data model is a one-to-one identifying relatio
 1. Write a query to list the total amount owed by insurance companies representing patients who selected insurance as their payment method. Order the results from highest to lowest total amount due and include the count of patients associated with each total.
    
 ![Screenshot (289)](https://github.com/user-attachments/assets/48224c1b-81f2-4961-9390-d15dfd96ab81)
-Justification...
+Justification: This query shows the outstanding amount due by each associated insurance company, and this is very useful to the office accountant or billing as it allows them to see what they are currently owed as well as the number of patients associated with the outstanding amount.
 
 2. Write a query to list the first and last name of each doctor who has written more than one prescription, along with the medication name and count of how many times each doctor has prescribed that medication.
 
 ![Screenshot (290)](https://github.com/user-attachments/assets/6f4ead20-54be-4757-9b53-9aee21fe0c8d)
-Justification...
+Justification: This query gives the number of times a prescription was written by a doctor. This would be useful to an office manager to search for any doctors that may have written more prescriptions than their state law allows them to write or more than their office is allowed to have prescribed at one time.
 
 3. Write a query to list the first name, last name, and salary of each nurse whose salary is greater than the minimum salary of doctors at the clinic.
    
 ![Screenshot (291)](https://github.com/user-attachments/assets/d125356a-a23f-4a2a-8da0-66adad6aa71c)
-Justification...
+Justification: This query would be helpful for the office manager of a clinic allowing them to keep up with who gets paid what, and at year end who is up for what type of raise potentially.
 
 4. Write a query to find patients with unpaid bills with the total amount due greater than 100 and ordered from highest to lowest
 
 ![Screenshot (293)](https://github.com/user-attachments/assets/3859286d-4e3d-44cb-bd33-e95caa137e1b)
-Justification...
+Justification: This query would be a really useful query for the office manager or bill collector to find how much an individual patient owes the clinic and then be able to send them a bill. Also, it would allow the office to keep up with patients who may owe too much to give treatment without taking payment of some sort first.
 
 5. Write a query to show the names of the nurses who have appointments in the future and the date and time of the appointments
 
 ![Screenshot (294)](https://github.com/user-attachments/assets/dd6ec149-2677-443e-8d5e-b822630702af)
-Justification...
+Justification: This query would be useful for the office manager to help with scheduling nurses and assigning them what appointments they work. It also could be used to change the date in the query as needed to continue building the office schedule.
 
 6. Write a query to show the average bill amount for each doctor's appointments in order from highest to lowest
 
 ![Screenshot (295)](https://github.com/user-attachments/assets/f6f494d5-c959-41a5-8bb8-3f4de3eba94a)
-Justification...
+Justification: This would be useful for a clinic as it would help a manager see if a doctor is a specialist of some type as a specialist visit on average costs more than a general doctor visit may cost. It would also help the office manager adjust hourly rates charged if needed.
 
 7. Write a query to list out the Id, first name, and last name of doctors in the medical clinic who have not wrote a prescription
 
 ![Screenshot (296)](https://github.com/user-attachments/assets/b1d1a4c0-13d1-4c7f-9da0-20ec6c7a863f)
-Justification...
+Justification: This is important as it showcases doctors who have not issued prescriptions. This is important as it can provide valuable information in assessing the roles, responsibilities, contributions of each doctor. This can highlight any gaps in patient care to ensure that the clinic process is optimized and following proper procedures.
 
 8. Write a query that lists patient name, phone number, email address, and medical history for those who tested positive for a test and find those who have allergies to ensure you don’t prescribe any medications they may give them an allergic reaction
 
 ![Screenshot (297)](https://github.com/user-attachments/assets/9681e204-1718-4787-b5f6-9c5e481d5fc9)
-Justification...
+Justification: This query is important from a managerial perspective because it ensures patient safety. This query allows the clinic to make sure patients test results are received in a timely manner and can receive prompt medical attention. This query checks for allergy information which will prevent doctors from prescribing the wrong medication, reducing liabilities. 
 
 9.  Write a query to show doctor name and supervisor and difference in years of experience of those doctors who have more years of experience than their supervisor
 Write a query to list out the names of doctors and their supervisor. List out the difference in years of experience between the doctor and their supervisor too.
 
 
 ![Screenshot (298)](https://github.com/user-attachments/assets/bd29137c-78cb-4967-a9b5-ba7fd8be28d2)
-Justification...
+Justification: This query is important from a managerial perspective because it shows the hierarchical structure of doctors. This is important to identify doctors who have more years of experience than their supervisors to identify errors in the hierarchical structure. This query shows the experience gap between doctors and their supervisors to better understand how the hierarchical structure is organized. Management can use this information to create different training programs that would best apply to the different experiences of each doctor. 
 
 10. Write a query to show the patient’s first name, last name, total number of appointments, and the total number of positive test results
     
 ![image](https://github.com/user-attachments/assets/8b5d3baa-4f3a-4abc-85f4-019888f101da)
-Justification...
+Justification: This query is important to determine not only the amount of positive test results, but also to list the number of those appointments made after those potential positive test results. It lists the patient information followed by the number of appointments of those only who tested positive. This can help the clinic see who needed a follow up appointment to receive greater care after their diagnosis. This can also provide further insight into how many choose to follow up through the clinic after being diagnosed. This query helps management determine how well they are managing patient outcomes, specifically those who have received positive test results. 
 
 
 ## Database Information
