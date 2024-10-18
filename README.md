@@ -2,8 +2,8 @@
 
 ## Group 2 Team Members
 - Aryan Patel [@AryanUGA](https://github.com/AryanUGA)
-- Caleb Maine (insert @ to repo)
-- Campbell Durbin (insert @ to repo)
+- Caleb Maine (insert @ to repo
+- Campbell Durbin [@campbelldurbin](https://github.com/campbelldurbin)
 - Chandler Boyd (insert @ to repo)
 - Maddie Sells (insert @ to repo)
 
