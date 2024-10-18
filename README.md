@@ -109,7 +109,6 @@ Justification: This query is important from a managerial perspective because it 
 ![image](https://github.com/user-attachments/assets/8b5d3baa-4f3a-4abc-85f4-019888f101da)
 Justification: This query is important to determine not only the amount of positive test results, but also to list the number of those appointments made after those potential positive test results. It lists the patient information followed by the number of appointments of those only who tested positive. This can help the clinic see who needed a follow up appointment to receive greater care after their diagnosis. This can also provide further insight into how many choose to follow up through the clinic after being diagnosed. This query helps management determine how well they are managing patient outcomes, specifically those who have received positive test results. 
 
-## Queries Matrix
 ![Screenshot (301)](https://github.com/user-attachments/assets/6241c5d7-2f11-4186-be14-a2080a4bb6c8)
 
 ## Database Information
