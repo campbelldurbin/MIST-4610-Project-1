@@ -92,22 +92,20 @@ Justification: Query 6 would be useful for the clinic manager when needing to as
 ![Screenshot (296)](https://github.com/user-attachments/assets/b1d1a4c0-13d1-4c7f-9da0-20ec6c7a863f)
 Justification: By calculating the average bill amount by doctor, Query 7 allows managers to see which doctors drive the most "revenue" for the clinic. A higher average bill amount could also provide reason to explore a particular doctor's appointment and prescription history to ensure they are providing comprehensive care when diagnosing patients and prescribing particular medications. 
 
-8. Write a query that lists patient name, phone number, email address, and medical history for those who tested positive for a test and find those who have allergies to ensure you don’t prescribe any medications they may give them an allergic reaction
+8. Write a query to list the doctorId, first name, and last name of doctors in the clinic who have not wrote any prescriptions.
 
 ![Screenshot (297)](https://github.com/user-attachments/assets/9681e204-1718-4787-b5f6-9c5e481d5fc9)
-Justification: This query is important from a managerial perspective because it ensures patient safety. This query allows the clinic to make sure patients test results are received in a timely manner and can receive prompt medical attention. This query checks for allergy information which will prevent doctors from prescribing the wrong medication, reducing liabilities. 
+Justification: Query 8 provides significance as it reveals those doctors who have not issued any prescriptions. This is important because it can provide valuable information in assessing the roles, responsibilities, and contributions of each doctor, which can help to highlight any gaps in patient car.
 
-9.  Write a query to show doctor name and supervisor and difference in years of experience of those doctors who have more years of experience than their supervisor
-Write a query to list out the names of doctors and their supervisor. List out the difference in years of experience between the doctor and their supervisor too.
-
+9.  Write a query to list the patient name, phone number, email address, and medical history for those patients who tested positive for any illness and who have any indication of an allergy in their medical history.
 
 ![Screenshot (298)](https://github.com/user-attachments/assets/bd29137c-78cb-4967-a9b5-ba7fd8be28d2)
-Justification: This query is important from a managerial perspective because it shows the hierarchical structure of doctors. This is important to identify doctors who have more years of experience than their supervisors to identify errors in the hierarchical structure. This query shows the experience gap between doctors and their supervisors to better understand how the hierarchical structure is organized. Management can use this information to create different training programs that would best apply to the different experiences of each doctor. 
+Justification: Query 9 is important from a managerial perspective primarily because it ensures patient safety. By retrieving the contact information for those patients who have tested positive for some illnesss, the clinic can notify these patients of the result so they can receive prompt medical attention. Further, by checking for any allergies, the clinic can be certain the patient is not prescribed any medication they are allergic to, ensuring the safety of the patient and reducing liability for the clinic and its doctors.
 
-10. Write a query to show the patient’s first name, last name, total number of appointments, and the total number of positive test results
+10. Write a query to list the patient’s first name, last name, and total number of appointments for those patient's who tested positive for any illness.
     
 ![image](https://github.com/user-attachments/assets/8b5d3baa-4f3a-4abc-85f4-019888f101da)
-Justification: This query is important to determine not only the amount of positive test results, but also to list the number of those appointments made after those potential positive test results. It lists the patient information followed by the number of appointments of those only who tested positive. This can help the clinic see who needed a follow up appointment to receive greater care after their diagnosis. This can also provide further insight into how many choose to follow up through the clinic after being diagnosed. This query helps management determine how well they are managing patient outcomes, specifically those who have received positive test results. 
+Justification: Query 10 offers managerial significance because it reveals those patient's who have tested positive for an illness and provides insight into actions the patient may or may not have taken after the test. The count of the patient's total number of appointments in this context reveals to the clinic if a patient may have needed a follow up appointment to receive greater care after their diagnosis. 
 
 ![Screenshot (301)](https://github.com/user-attachments/assets/6241c5d7-2f11-4186-be14-a2080a4bb6c8)
 
