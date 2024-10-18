@@ -70,12 +70,12 @@ Justification: Query 2 is useful from a managerial standpoint because it assists
 3. Write a query to list the first name, last name, and salary of each nurse whose salary is greater than the minimum salary of doctors at the clinic.
    
 ![Screenshot (291)](https://github.com/user-attachments/assets/d125356a-a23f-4a2a-8da0-66adad6aa71c)
-Justification: This query would be helpful for the office manager of a clinic allowing them to keep up with who gets paid what, and at year end who is up for what type of raise potentially.
+Justification: By identifying which nurses are paid more than the lowest paid doctor, Query 3 allows managers to engage in salary benchmarking, which is useful for identifying salary discrepencies and trends. By better understanding this information, managers can work to ensure fair and equal pay across their staff and are better informed when making budgeting and promotion decisions.
 
 4. Write a query to find patients with unpaid bills with the total amount due greater than 100 and ordered from highest to lowest
 
 ![Screenshot (293)](https://github.com/user-attachments/assets/3859286d-4e3d-44cb-bd33-e95caa137e1b)
-Justification: This query would be a really useful query for the office manager or bill collector to find how much an individual patient owes the clinic and then be able to send them a bill. Also, it would allow the office to keep up with patients who may owe too much to give treatment without taking payment of some sort first.
+Justification: Query 4 allows managers to identify those patients who owe over $100 to the clinic. By identifying these patients, managers can begin to look further into the patient's relevant records, including their appointments, prescriptions, insurance, and test results, and can access their contact information to notify them of their outstanding dues. Further, sorting the amounts owed from highest to lowest would allow the manager to strategize and priortize efforts on those patients who owe the most money to the clinic.
 
 5. Write a query to show the names of the nurses who have appointments in the future and the date and time of the appointments
 
