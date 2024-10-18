@@ -60,12 +60,12 @@ The final relationship within the data model is a one-to-one identifying relatio
 1. Write a query to list the total amount owed by insurance companies representing patients who selected insurance as their payment method. Order the results from highest to lowest total amount due and include the count of patients associated with each total.
    
 ![Screenshot (289)](https://github.com/user-attachments/assets/48224c1b-81f2-4961-9390-d15dfd96ab81)
-Justification: Query 1 identifies which insurance companies owe the clinic money and provides the total amount owed by each. This is useful from a managerial perspective primarily because it allows the billing and related departments to accurately report financials, and by revealing the count of patients associated with the total amount due, managers are able to better understand the origins of the totals and can begin to take steps to collect what is owed to the clinic.
+Justification: Query 1 identifies which insurance companies owe the clinic money and provides the total amount owed by each. This is useful from a managerial perspective because it allows the billing and related departments to accurately report financials, and by revealing the count of patients associated with the total amount due, managers are able to better understand the origins of the totals and can begin to take steps to collect what is owed to the clinic.
 
 2. Write a query to list the first and last name of each doctor who has written more than one prescription, along with the medication name and count of how many times each doctor has prescribed that medication.
 
 ![Screenshot (290)](https://github.com/user-attachments/assets/6f4ead20-54be-4757-9b53-9aee21fe0c8d)
-Justification: This query gives the number of times a prescription was written by a doctor. This would be useful to an office manager to search for any doctors that may have written more prescriptions than their state law allows them to write or more than their office is allowed to have prescribed at one time.
+Justification: Query 2 is useful from a managerial standpoint because it assists managers in understanding prescribing trends, specifically which medications are prescribed most often and by which doctors. This information serves to support various functions including stock management, compliance, and performance analysis. 
 
 3. Write a query to list the first name, last name, and salary of each nurse whose salary is greater than the minimum salary of doctors at the clinic.
    
